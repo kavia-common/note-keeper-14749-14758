@@ -1,0 +1,2 @@
+/* Root component has no specific styles; layout component handles UI */
+:host { display: contents; }
